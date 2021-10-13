@@ -1,0 +1,4 @@
+,first,last,email
+0,Ram,Basnet,basfsfsnssnfs#
+1,Shyam,Karki,bsnetef322!@
+2,Hari,Thapa,sfslsf
